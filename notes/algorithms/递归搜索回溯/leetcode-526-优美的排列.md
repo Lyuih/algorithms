@@ -15,7 +15,7 @@ i 能够被 perm[i] 整除
 - **思路**：
 枚举数组每个位置选什么
 
-## 代码实现 (Python)
+## 代码实现
 ```C++
 class Solution {
 public:

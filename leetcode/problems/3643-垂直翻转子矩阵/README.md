@@ -14,7 +14,7 @@
 
 遍历交换
 
-## 代码实现 (Python)
+## 代码实现
 ```c++
 class Solution {
 public:

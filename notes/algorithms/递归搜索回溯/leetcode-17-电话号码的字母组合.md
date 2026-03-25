@@ -16,7 +16,7 @@
   - 时间复杂度：$O(3^m*4^n)$
   - 空间复杂度：$O(m+n)$
 
-## 代码实现 (Python)
+## 代码实现
 ```C++
 class Solution {
 public:

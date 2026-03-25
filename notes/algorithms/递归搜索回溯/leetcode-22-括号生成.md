@@ -14,7 +14,7 @@
 回溯的终止条件是耗尽左括号。
 
 
-## 代码实现 (Python)
+## 代码实现
 ```C++
 class Solution {
 public:

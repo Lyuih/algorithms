@@ -17,7 +17,7 @@
   - 时间复杂度：$O(n*2^n)$
   - 空间复杂度：$O(n*2^n)$
 
-## 代码实现 (Python)
+## 代码实现
 ```C++
 class Solution {
 public:
@@ -50,7 +50,7 @@ vector<vector<int>> ret;
   - 时间复杂度：$O(n*2^n)$
   - 空间复杂度：$O(n*2^n)$
 
-## 代码实现 (Python)
+## 代码实现
 ```C++
 class Solution {
     vector<vector<int>> ret;

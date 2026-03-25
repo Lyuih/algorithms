@@ -14,7 +14,7 @@ F(n) = F(n - 1) + F(n - 2)，其中 n > 1
 
 记忆化搜索
 
-## 代码实现 (Python)
+## 代码实现
 ```C++
 class Solution {
 public:

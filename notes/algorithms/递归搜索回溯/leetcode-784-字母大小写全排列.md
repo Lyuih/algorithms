@@ -14,7 +14,7 @@
 - **思路**：
 选与不选变体，注意数字都不选
 
-## 代码实现 (Python)
+## 代码实现
 ```C++
 class Solution {
 public:

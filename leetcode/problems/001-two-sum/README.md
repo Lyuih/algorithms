@@ -16,7 +16,7 @@
   - 时间复杂度：$O(n)$，只需遍历一次数组。
   - 空间复杂度：$O(n)$，最坏情况下哈希表存储 $n$ 个元素。
 
-## 代码实现 (Python)
+## 代码实现
 ```python
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:

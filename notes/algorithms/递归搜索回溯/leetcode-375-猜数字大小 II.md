@@ -19,7 +19,7 @@
 dfs用来处理一段区间的最优路径里面的最大值
 分段dfs得到答案
 
-## 代码实现 (Python)
+## 代码实现
 ```C++
 class Solution {
 public:

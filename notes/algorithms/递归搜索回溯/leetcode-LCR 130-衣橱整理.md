@@ -14,7 +14,7 @@
 
 深度优先
 
-## 代码实现 (Python)
+## 代码实现
 ```C++
 class Solution {
 public:

@@ -11,7 +11,7 @@
 - **思路**：
 让数字前位越大的数越要排前面，可以转化为排序问题，排序规则就是str(a)+str(b)>str(b)+str(a)
 注意前缀零
-## 代码实现 (Python)
+## 代码实现 
 ```C++
 class Solution {
 public:
